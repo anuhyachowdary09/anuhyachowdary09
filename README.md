@@ -12,7 +12,7 @@
 
 ### 👩‍💻 About Me
 
-- 🏥 **Currently @** Fiserv — building patient risk-stratification ML platform for care management teams
+- 🏥 **Currently @** Walmart — building patient risk-stratification ML platform for care management teams
 - 🔬 I build **production ML systems** end-to-end: from feature engineering to deployment & monitoring
 - 🤖 Passionate about **GenAI, RAG pipelines, and LLM applications** in healthcare
 - 📊 Expertise in **survival analysis, uplift modeling, and time series forecasting**
